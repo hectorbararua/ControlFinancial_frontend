@@ -1,6 +1,6 @@
 # ControlFinancial_frontend
 
-✅ Iniciando o projeto - frontend:
+Iniciando o projeto - frontend:
 
 📚 O frontend foi criado utilizando o framework React.
 
